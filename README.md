@@ -2,4 +2,4 @@
 
 Test avant formation en atelier
 
-Utilisation des données de météo france + cartographie 
+Utilisation des données de météo france + cartographie + worcloud

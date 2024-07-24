@@ -1,3 +1,3 @@
 # observable-notebook
 
-Quick tutorial
+Quick tutorial before formation

@@ -1,3 +1,3 @@
 # observable-notebook
 
-A quick tutorial
+A quick tutorial before session
